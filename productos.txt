@@ -1,0 +1,7 @@
+Manzanas;0.78
+Pipas;1.15
+Arroz;1.60
+Chocolate;1.32
+Chicles;1.00
+Sobaos;1.95
+Agua;0.67
